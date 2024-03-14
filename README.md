@@ -1,4 +1,4 @@
-# Suicide_Detection
+# Sentiment Analysis
 
 ## Overview
 
